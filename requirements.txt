@@ -1,0 +1,6 @@
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+matplotlib==3.8.4
+similaritymeasures==1.1.0
+oct2py==5.8.0
